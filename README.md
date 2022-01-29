@@ -7,7 +7,7 @@ Everything has started the day I bought a Linux 🐧 Knoppix cd-rom at a newssta
 
 Interests:  🧑🏼‍💻 CyberSecurity 🧬 Bioinformatics  
 Preferred IDE: Intellij IDEA  
-Preferred OS: Linux, of course! (Currently in love with Pop!_OS)
+Preferred OS: Linux, of course! (At the moment, in love with Pop!_OS)
 
 # 💻Tech Stack
 #### Languages
@@ -28,10 +28,8 @@ Preferred OS: Linux, of course! (Currently in love with Pop!_OS)
 ![](https://github-readme-stats.vercel.app/api?username=G10xy&theme=merko&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=G10xy&theme=merko&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=G10xy&theme=merko&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
 ### 😂Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
