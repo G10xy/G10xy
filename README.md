@@ -2,7 +2,7 @@
 
 # 💫About Me
 I'm a Millenial.  
-Biotech graduated, currently working as a software engineer, thanks to my interest about computer and internet, mainly focused on back-end development.  
+Biotech graduated, currently working as software engineer, thanks to my interest about computer and internet, mainly focused on back-end development.  
 Everything has started the day I bought a Linux 🐧 Knoppix cd-rom at a newsstand and booted on my laptop...  
 
 Interests:  🧑🏼‍💻 CyberSecurity 🧬 Bioinformatics  
