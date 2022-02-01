@@ -12,7 +12,7 @@ Preferred OS: Linux, of course! (At the moment, in love with Pop!_OS)
 #### Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white&color=red) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white&color=blueviolet) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 #### Framework 
-***(Yes, I like Spring B❤️❤️t)***  
+###### ***(Yes, I like Spring B❤️❤️t)***  
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![SpringBoot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat&logo=SpringBoot&logoColor=white) ![SpringData](https://img.shields.io/badge/Spring_Data-%236DB33F.svg?style=flat&logo=SpringData&logoColor=white) ![SpringBoot](https://img.shields.io/badge/Spring_Security-%236DB33F.svg?style=flat&logo=SpringSecurity&logoColor=white)  
 ![Ktor](https://img.shields.io/badge/Ktor-%230095D5.svg?style=flat&logo=ktor&logoColor=white&color=blue)
 #### Database
