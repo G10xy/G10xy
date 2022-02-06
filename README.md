@@ -25,8 +25,7 @@ Preferred OS: Linux, of course! (At the moment, in love with Pop!_OS)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat&logo=insomnia&logoColor=5849BE)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ### 📊GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=G10xy&theme=merko&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=G10xy&theme=merko&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=G10xy&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=G10xy&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
