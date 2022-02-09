@@ -22,7 +22,7 @@ Preferred OS: Linux, of course! (At the moment, in love with Pop!_OS)
 #### Other
 ![ApacheKafka](https://img.shields.io/badge/Apache_Kafka-%23FF9900.svg?style=flat&logo=Apache-Kafka&logoColor=white&color=black)  
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)  
-![ApacheSolr](https://img.shields.io/badge/Apache_Solr-%23FF9900.svg?style=flat&logo=Apache-Solr&logoColor=white&color=black)  
+![ApacheSolr](https://img.shields.io/badge/Apache_Solr-%23FF9900.svg?style=flat&logo=Apache-Solr&logoColor=white&color=white)  
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat&logo=insomnia&logoColor=5849BE)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ### 📊GitHub Stats
