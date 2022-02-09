@@ -28,7 +28,7 @@ Preferred OS: Linux, of course! (At the moment, in love with Pop!_OS)
 ### 📊GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=G10xy&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=G10xy&theme=merko&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=G10xy&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=G10xy&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)-->
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 ### 😂Random Dev Meme
