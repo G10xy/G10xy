@@ -5,8 +5,7 @@ I'm a Millenial, currently working as software engineer, mainly focused on back-
 Everything has started the day I bought a Linux Knoppix cd-rom at a newsstand and booted on my laptop...  
 
 Interests:  🧑🏼‍💻 CyberSecurity 🧬 Bioinformatics  
-Preferred IDE: Intellij IDEA  
-Preferred OS: Linux, of course! (At the moment, in love with Pop!_OS)
+
 
 ## 💻 Tech Stack
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>&nbsp;
