@@ -26,6 +26,7 @@ Everything has started the day I bought a Linux Knoppix cd-rom at a newsstand an
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+<!--<img src="https://random-memer.herokuapp.com/" width="512px"/>-->
 
 ![](https://komarev.com/ghpvc/?username=G10xy&label=Visitors+Count&color=brightgreen)
