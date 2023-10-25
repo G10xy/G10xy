@@ -19,11 +19,21 @@ Everything has started the day I bought a Linux Knoppix cd-rom at a newsstand an
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
 
 
-### 📊 Stats
+## 📊 Stats
 ![](https://github-readme-stats.vercel.app/api?username=G10xy&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=G10xy&theme=merko&hide_border=true)<br/>
-<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=G10xy&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)-->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=G10xy&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ![](https://komarev.com/ghpvc/?username=G10xy&label=Visitors+Count&color=brightgreen)
+
+<hr>
+
+### 🤝 **Contributions**
+List of projects I have contributed to
+
+| Name | Description |
+| --- | --- |
+| <a href="https://github.com/andregasser/bigbone"><b>BigBone</b></a> | BigBone is a :elephant: Mastodon client library for Java and Kotlin. |
