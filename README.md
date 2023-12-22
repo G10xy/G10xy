@@ -32,7 +32,6 @@ Everything has started the day I bought a Linux Knoppix cd-rom at a newsstand an
 <hr>
 
 ## 🤝 Contributions
-List of projects I have contributed to
 
 | Name | Description |
 | --- | --- |
