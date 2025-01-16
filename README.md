@@ -1,8 +1,12 @@
 # Hello 👋
 
 ## :book: About Me
-I'm a Millenial, currently working as software engineer, mainly focused on back-end development.  
-Everything has started the day I bought a Linux Knoppix cd-rom at a newsstand and booted on my laptop...  
+* I am a Millenial
+* Software engineer
+* Linux Addicted
+* Vagabond Developer
+* Networking Explorer
+* Always looking for new design patterns;  
 
 
 ## 💻 Tech Stack
