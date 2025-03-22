@@ -40,3 +40,5 @@
 | Name | Description |
 | --- | --- |
 | <a href="https://github.com/andregasser/bigbone"><b>BigBone</b></a> | BigBone is a :elephant: Mastodon client library for Java and Kotlin. |
+| <a href="https://github.com/masecla22/Reddit4J"><b>Reddit4J</b></a> | Reddit4J is a Reddit client library for Java. |
+
