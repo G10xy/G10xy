@@ -6,7 +6,7 @@
 * Linux Addicted
 * Vagabond Developer
 * Networking Explorer
-* Always looking for new design patterns;  
+* Always looking for new design patterns  
 
 
 ## 💻 Tech Stack
