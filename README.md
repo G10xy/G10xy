@@ -1,12 +1,14 @@
-# Hello 👋
+## :book: WHOAMI
+```bash
+$ cat profile.txt
 
-## :book: About Me
-* I am a Millenial
-* Software engineer
-* Linux Addicted
-* Vagabond Developer
-* Networking Explorer
-* Always looking for new design patterns  
+→ Millennial Coder Born in the Digital Revolution
+→ Software Engineer  
+→ Linux Addicted
+→ Vagabond Developer
+→ Networking Explorer 
+→ Design Pattern Hunter 
+```
 
 
 ## 💻 Tech Stack
