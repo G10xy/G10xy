@@ -1,6 +1,7 @@
 ## :book: WHOAMI
 ```bash
-$ cat profile.txt
+┌──(user@github)-[~]
+└─$ cat profile.txt
 
 → Millennial Coder Born in the Digital Revolution
 → Software Engineer  
