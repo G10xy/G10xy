@@ -1,9 +1,9 @@
-## :book: WHOAMI
+## :book: whoami
 ```bash
 ┌──(user@github)-[~]
 └─$ cat profile.txt
 
-→ Millennial Coder Born in the Digital Revolution
+→ Millennial Coder
 → Software Engineer  
 → Linux Addicted
 → Vagabond Developer
