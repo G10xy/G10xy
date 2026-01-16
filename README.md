@@ -39,7 +39,7 @@
 -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=G10xy&theme=2077) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=G10xy&theme=gotham) <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=G10xy&theme=merko&hide_border=true)
+![](https://github-readme-streak-stats-eight.vercel.app/?user=G10xy&theme=merko&hide_border=true)
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
