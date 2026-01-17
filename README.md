@@ -13,8 +13,8 @@
 → Hacker by Night
 → Architect Dreamer
 → LLM Whisperer
-→ SkyNet Intern Wannabe
-→ HITL in the Age of Agents 
+→ Next SkyNet Intern
+→ HITL Wannabe in the Age of Agents 
 ```
 
 
