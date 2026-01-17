@@ -13,8 +13,8 @@
 → Hacker by Night
 → Architect Dreamer
 → LLM Whisperer
-→ HITL in the Age of Agents
-→ SkyNet Intern Wannabe 
+→ SkyNet Intern Wannabe
+→ HITL in the Age of Agents 
 ```
 
 
@@ -42,7 +42,7 @@
 -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=G10xy&theme=merko) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=G10xy&theme=merko) <br/>
-![](https://github-readme-streak-stats-eight.vercel.app/?user=G10xy&theme=2077&hide_border=true)
+![](https://github-readme-streak-stats-eight.vercel.app/?user=G10xy&theme=aura&hide_border=true)
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
