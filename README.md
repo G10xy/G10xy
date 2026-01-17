@@ -8,10 +8,13 @@
 → Linux Addicted
 → Vagabond Developer
 → Networking Explorer 
-→ Design Pattern Hunter
+→ Design Patterns Hunter
+→ Debugger by Day
+→ Hacker by Night
 → Architect Dreamer
 → LLM Whisperer
-→ HITL Wannabe
+→ HITL in the Age of Agents
+→ SkyNet Intern Wannabe 
 ```
 
 
@@ -37,9 +40,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=G10xy&theme=merko&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=G10xy&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
 -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=G10xy&theme=nord_dark) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=G10xy&theme=nord_dark) <br/>
-![](https://github-readme-streak-stats-eight.vercel.app/?user=G10xy&theme=merko&hide_border=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=G10xy&theme=merko) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=G10xy&theme=merko) <br/>
+![](https://github-readme-streak-stats-eight.vercel.app/?user=G10xy&theme=nord_dark&hide_border=true)
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
