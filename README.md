@@ -16,7 +16,7 @@
 → SkyNet Intern Wannabe
 → HITL apprentice in the Age of Agents 
 ```
-
+![Demo animation](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGp3MTR0bGtnNWZ0emxxN3BmN2ZvdW85M3Zic21xdDN4OW9xMGVieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9vk7uNCSJaOqI/giphy.gif)
 
 ## 💻 Tech Stack
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>&nbsp;
