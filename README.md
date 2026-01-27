@@ -58,6 +58,8 @@
 | <a href="https://github.com/andregasser/bigbone"><b>BigBone</b></a> | BigBone is a :elephant: Mastodon client library for Java and Kotlin. |
 | <a href="https://github.com/masecla22/Reddit4J"><b>Reddit4J</b></a> | Reddit4J is a Reddit client library for Java. |
 
+<hr>
+
 ## 📂 Public Repositories
 
 | Repository | Description |
@@ -66,12 +68,10 @@
 | [**Library-Management**](https://github.com/G10xy/Library-Management) | This project is based on the use of State Machine module of Spring Framework |
 | [**spreaker-and-go**](https://github.com/G10xy/spreaker-and-go) | A command-line interface for the Spreaker podcast platform |
 | [**UrlScanKtor**](https://github.com/G10xy/UrlScanKtor) | Kotlin Multiplatform client library for urlscan.io API supporting JVM, Android, iOS, Linux, macOS, Windows and JavaScript |
-| [**bigbone**](https://github.com/G10xy/bigbone) | BigBone - A Mastodon Client Library for Java and Kotlin |
-| [**Reddit4J**](https://github.com/G10xy/Reddit4J) | A library which aims to attain full coverage of the Reddit API |
-| [**Linux-Cheat-Sheet**](https://github.com/G10xy/Linux-Cheat-Sheet) | Linux commands quick reference |
-| [**BusinessMonitoring**](https://github.com/G10xy/BusinessMonitoring) | Business monitoring solution |
 | [**Registro-Comuni-ISTAT**](https://github.com/G10xy/Registro-Comuni-ISTAT) | This project is about handling the list of every cities with all metadata associated |
 | [**city-air-pollution-bot**](https://github.com/G10xy/city-air-pollution-bot) | Telegram Bot to fetch data about air pollution for city of interest |
 | [**file-server**](https://github.com/G10xy/file-server) | Simple file server providing REST APIs to access remote file system |
 | [**Demo-Authentication-JWT**](https://github.com/G10xy/Demo-Authentication-JWT) | Demo project showing backend jwt-based authentication |
 | [**Dashboard-Pollution**](https://github.com/G10xy/Dashboard-Pollution) | Dashboard useful to keep an eye on pollution level of cities around the world |
+| [**Linux-Cheat-Sheet**](https://github.com/G10xy/Linux-Cheat-Sheet) | Linux commands quick reference |
+| [**BusinessMonitoring**](https://github.com/G10xy/BusinessMonitoring) | Business monitoring solution |
