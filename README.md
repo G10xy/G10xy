@@ -66,6 +66,7 @@
 | --- | --- |
 | [**pexkit**](https://github.com/G10xy/pexkit) | Pexels Kotlin Multiplatform Library |
 | [**Library-Management**](https://github.com/G10xy/Library-Management) | This project is based on the use of State Machine module of Spring Framework |
+| [**podcastindex-cli**](https://github.com/G10xy/podcastindex-cli) | A command-line interface for the PodcastIndex podcast platform |
 | [**spreaker-and-go**](https://github.com/G10xy/spreaker-and-go) | A command-line interface for the Spreaker podcast platform |
 | [**UrlScanKtor**](https://github.com/G10xy/UrlScanKtor) | Kotlin Multiplatform client library for urlscan.io API supporting JVM, Android, iOS, Linux, macOS, Windows and JavaScript |
 | [**Registro-Comuni-ISTAT**](https://github.com/G10xy/Registro-Comuni-ISTAT) | This project is about handling the list of every cities with all metadata associated |
