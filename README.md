@@ -76,3 +76,4 @@
 | [**Dashboard-Pollution**](https://github.com/G10xy/Dashboard-Pollution) | Dashboard useful to keep an eye on pollution level of cities around the world |
 | [**Linux-Cheat-Sheet**](https://github.com/G10xy/Linux-Cheat-Sheet) | Linux commands quick reference |
 | [**BusinessMonitoring**](https://github.com/G10xy/BusinessMonitoring) | Business monitoring solution |
+| [**java-version-upgrade-skill**](https://github.com/G10xy/java-version-upgrade-skill) | An Agent Skill that guides upgrading Java codebases between LTS versions  |
