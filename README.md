@@ -11,9 +11,9 @@
 → Design Patterns Hunter
 → Debugger by Day
 → Hacker by Night
+→ Full-Stack Wannabe
 → Architect Dreamer
 → LLM Whisperer
-→ SkyNet Intern Wannabe
 → HITL apprentice in the Age of Agents 
 ```
 ![Demo animation](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGp3MTR0bGtnNWZ0emxxN3BmN2ZvdW85M3Zic21xdDN4OW9xMGVieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9vk7uNCSJaOqI/giphy.gif)
