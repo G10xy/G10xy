@@ -36,12 +36,12 @@
 
 ## 📊 Stats
 <!--
-![](https://github-readme-stats.vercel.app/api?username=G10xy&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=G10xy&theme=merko&hide_border=true)<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=G10xy&theme=merko)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=G10xy&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
 -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=G10xy&theme=merko) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=G10xy&theme=merko) <br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=G10xy&theme=merko) <br />
+![](https://github-readme-stats.vercel.app/api?username=G10xy&theme=merko&hide_border=true&include_all_commits=true&count_private=true) <br/>
 ![](https://github-readme-streak-stats-eight.vercel.app/?user=G10xy&theme=aura&hide_border=true)
 
 ## ✍️ Random Dev Quote
